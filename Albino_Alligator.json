@@ -1,1 +1,259 @@
-{"name":"Albino Alligator","traits":"","tags":[],"level":3,"specials":[{"id":"_2vwsnnlhbn0","name":"Attack of Opportunity","traits":"","range":"","actions":"reaction","type":"defense","description":""},{"id":"_104yy1tk772","name":"Aquatic Ambush","traits":"","range":"","actions":"one","type":"offense","description":"The Albino Alligator moves 35 feet"}],"morespells":[],"alignment":"n","size":"large","type":"animal","adjust":0,"description":"","items":"","spellattack":{"value":"","benchmark":"moderate","note":""},"spelldc":{"value":"","benchmark":"moderate","note":""},"savenote":"","creature":"","speed":"20 feet, swim 25 feet","imgurl":"","spelltype":"","focuspoints":0,"cantriplevel":"","ritualtype":"","rituals":"","spells":["","","","","","","","","","",""],"constant":"","minprof":{"value":"","benchmark":"moderate","note":""},"strength":{"value":5,"benchmark":"high","note":""},"dexterity":{"value":"1","benchmark":"moderate","note":""},"constitution":{"value":"4","benchmark":"high","note":""},"intelligence":{"value":"-4","benchmark":"abysmal","note":""},"wisdom":{"value":"1","benchmark":"moderate","note":""},"charisma":{"value":"-4","benchmark":"terrible","note":""},"perception":{"value":"10","benchmark":"moderate","note":""},"acrobatics":{"value":"","benchmark":"moderate","note":""},"arcana":{"value":"","benchmark":"moderate","note":""},"athletics":{"value":"12","benchmark":"moderate","note":""},"crafting":{"value":"","benchmark":"moderate","note":""},"deception":{"value":"","benchmark":"moderate","note":""},"diplomacy":{"value":"","benchmark":"moderate","note":""},"intimidation":{"value":"","benchmark":"moderate","note":""},"medicine":{"value":"","benchmark":"moderate","note":""},"nature":{"value":"","benchmark":"moderate","note":""},"occultism":{"value":"","benchmark":"moderate","note":""},"performance":{"value":"","benchmark":"moderate","note":""},"religion":{"value":"","benchmark":"moderate","note":""},"society":{"value":"","benchmark":"moderate","note":""},"stealth":{"value":"8","benchmark":"moderate","note":"+12 in water"},"survival":{"value":"","benchmark":"moderate","note":""},"thievery":{"value":"","benchmark":"moderate","note":""},"lore":{"value":"","benchmark":"moderate","note":"","name":"lore"},"lorealt":{"value":"","benchmark":"moderate","note":"","name":"lore"},"ac":{"value":"18","benchmark":"moderate","note":""},"hp":{"value":"50","benchmark":"moderate","note":""},"fortitude":{"value":"11","benchmark":"moderate","note":""},"reflex":{"value":"8","benchmark":"moderate","note":""},"will":{"value":"8","benchmark":"moderate","note":""},"resistance":{"value":"","benchmark":"moderate","note":""},"weakness":{"value":"","benchmark":"moderate","note":""},"immunity":{"value":"","benchmark":"moderate","note":""},"roadmap":"","info":"","strikes":[{"id":"_1az7furc7p7","name":"jaws","traits":"","attack":"12","damage":"1d10+5 slashing plus Grab","type":"Melee"},{"id":"_2otjpflm13g","name":"tail","traits":"agile","attack":"12","damage":"1d6+5 bludgeoning","type":"Melee"}],"languages":""}
+{
+  "name": "Albino Alligator",
+  "traits": "",
+  "tags": [],
+  "level": 3,
+  "specials": [
+    {
+      "id": "_2vwsnnlhbn0",
+      "name": "Attack of Opportunity",
+      "traits": "",
+      "range": "",
+      "actions": "reaction",
+      "type": "defense",
+      "description": ""
+    },
+    {
+      "id": "_104yy1tk772",
+      "name": "Aquatic Ambush",
+      "traits": "",
+      "range": "",
+      "actions": "one",
+      "type": "offense",
+      "description": "The Albino Alligator moves 35 feet"
+    }
+  ],
+  "morespells": [],
+  "alignment": "n",
+  "size": "large",
+  "type": "animal",
+  "adjust": 0,
+  "description": "",
+  "items": "",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "",
+  "speed": "20 feet, swim 25 feet",
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": 5,
+    "benchmark": "high",
+    "note": ""
+  },
+  "dexterity": {
+    "value": "1",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": "4",
+    "benchmark": "high",
+    "note": ""
+  },
+  "intelligence": {
+    "value": "-4",
+    "benchmark": "abysmal",
+    "note": ""
+  },
+  "wisdom": {
+    "value": "1",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": "-4",
+    "benchmark": "terrible",
+    "note": ""
+  },
+  "perception": {
+    "value": "10",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": "12",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "8",
+    "benchmark": "moderate",
+    "note": "+12 in water"
+  },
+  "survival": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": "18",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "hp": {
+    "value": "50",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "fortitude": {
+    "value": "11",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": "8",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": "8",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "resistance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "",
+  "strikes": [
+    {
+      "id": "_1az7furc7p7",
+      "name": "jaws",
+      "traits": "",
+      "attack": "12",
+      "damage": "1d10+5 slashing plus Grab",
+      "type": "Melee"
+    },
+    {
+      "id": "_2otjpflm13g",
+      "name": "tail",
+      "traits": "agile",
+      "attack": "12",
+      "damage": "1d6+5 bludgeoning",
+      "type": "Melee"
+    }
+  ],
+  "languages": ""
+}
